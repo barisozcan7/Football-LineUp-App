@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Comp319_Project/Pods-Comp319_Project-frameworks.sh
+${BUILT_PRODUCTS_DIR}/GoogleUtilities/GoogleUtilities.framework
+${BUILT_PRODUCTS_DIR}/leveldb-library/leveldb.framework
+${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework
